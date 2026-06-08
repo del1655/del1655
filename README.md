@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Delannie, a Software Development student from Mexico 🇲🇽 passionate about building web and mobile applications.
+
+I enjoy learning by creating projects and exploring new technologies.
+
+- Improving my developer portfolio
+- Building personal projects with React and Kotlin
+- Strengthening my frontend and mobile development skills
+- Preparing for international software engineering opportunities
+
+## 🛠️ What tools do I use?
+
+Frontend:
+React • JavaScript • TypeScript • Tailwind CSS
+
+Mobile:
+Kotlin • Jetpack Compose • Android Studio
+
+Backend & Database:
+Node.js • MySQL • PostgreSQL • MongoDB
+
+Tools:
+Git • GitHub • Figma • VS Code
+
