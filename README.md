@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Delannie👋
 
 <!--
 **del1655/del1655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 I'm Delannie, a Software Development student from Mexico 🇲🇽 passionate about building web and mobile applications.
 
 I enjoy learning by creating projects, exploring new technologies, and bringing ideas to life through clean and user-friendly interfaces.
@@ -37,9 +37,25 @@ Preparing for international software engineering opportunities
 
 -Backend & Database: Node.js • MySQL • PostgreSQL • MongoDB
 
--Design: Figma • Wireframing • Prototyping • UI Design
+-->
 
--Tools: Git • GitHub • VS Code
+
+Software Development student from Mexico 🇲🇽
+
+I enjoy building web and mobile applications and turning ideas into user-friendly experiences.
+
+Currently focused on improving my portfolio, building projects, and growing my skills in Frontend Development, Mobile Development, and UI/UX Design.
+
+🛠️ Tech Stack
+
+React • JavaScript • TypeScript • Tailwind CSS
+
+Kotlin • Jetpack Compose • Android Studio
+
+Node.js • MySQL • PostgreSQL • MongoDB
+
+Git • GitHub • VS Code • Figma
+
 
 🎨 Beyond Coding
 
