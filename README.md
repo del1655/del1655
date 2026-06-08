@@ -18,24 +18,29 @@ Here are some ideas to get you started:
 
 I'm Delannie, a Software Development student from Mexico 🇲🇽 passionate about building web and mobile applications.
 
-I enjoy learning by creating projects and exploring new technologies.
+I enjoy learning by creating projects, exploring new technologies, and bringing ideas to life through clean and user-friendly interfaces.
 
-- Improving my developer portfolio
-- Building personal projects with React and Kotlin
-- Strengthening my frontend and mobile development skills
-- Preparing for international software engineering opportunities
+I'm particularly interested in Frontend Development, UI/UX Design, and creating experiences that are both functional and visually appealing.
 
-## 🛠️ What tools do I use?
+🚀 What am I currently working on?
+Improving my developer portfolio
+Building personal projects with React and Kotlin
+Strengthening my frontend and mobile development skills
+Learning more about UI/UX and modern design practices
+Preparing for international software engineering opportunities
 
-Frontend:
-React • JavaScript • TypeScript • Tailwind CSS
+🛠️ What tools do I use?
 
-Mobile:
-Kotlin • Jetpack Compose • Android Studio
+-Frontend: React • JavaScript • TypeScript • Tailwind CSS
 
-Backend & Database:
-Node.js • MySQL • PostgreSQL • MongoDB
+-Mobile: Kotlin • Jetpack Compose • Android Studio
 
-Tools:
-Git • GitHub • Figma • VS Code
+-Backend & Database: Node.js • MySQL • PostgreSQL • MongoDB
 
+-Design: Figma • Wireframing • Prototyping • UI Design
+
+-Tools: Git • GitHub • VS Code
+
+🎨 Beyond Coding
+
+One of my favorite hobbies is designing and prototyping web and mobile interfaces in Figma. I enjoy thinking about layouts, usability, visual design, and how users interact with products.
