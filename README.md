@@ -40,7 +40,7 @@ Preparing for international software engineering opportunities
 -->
 
 
-Graduate Software Development Engineer student from Mexico 🇲🇽
+Graduate Software Development Engineer from Mexico 🇲🇽
 
 I enjoy building web and mobile applications and turning ideas into user-friendly experiences.
 
